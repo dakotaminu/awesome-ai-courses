@@ -2,6 +2,10 @@
 
 A curated list of high-quality AI courses and resources. Inspired by [awesome](https://github.com/sindresorhus/awesome).
 
+### Related Links
+
+[Altern](https://altern.ai) -  [There's An AI](https://theresanai.com) - [Awesome AI Tools](https://github.com/mahseema/awesome-ai-tools) - [Awesome AI Models](https://github.com/dariubs/awesome-ai-models) - [Awesome AI SEO](https://github.com/xaramore/awesome-ai-seo)
+
 ## Table of Contents
 
 - [Introduction](#introduction)
